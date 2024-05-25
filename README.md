@@ -1,51 +1,40 @@
-This tool has been maded by aFrEeDi
-github : afreedituttu
+## Use this tool only for educational purposes. If you misuse this tool or any of the scripts from it, neither the author nor the contributors will be responsible for the consequences.
 
-source of python scripts used in this tool : 
-github : kerela hackers
+### Instagram bruteforcer is a tool made for termux users to test their security of instagram accounts against bruteforce attacks.
+Note : It can only be runned on linux enviorment.
 
-
-source of lazybee tool used in this tool :
-github : noobhackers
-
---------------------------------------------------------------------
-| This tool is only for educational purpose.                       |
-|  If you use this tool for other purposes except education we will|
-|  not be responsible in such cases. use this tool at your own risk|
---------------------------------------------------------------------
-
-install the python packages directly by bashing
+install the necessary python packages directly by running the script -
 setup.sh
 
+command -
 bash setup.sh
 [ allow the permission to your sdcard when asked ]
 
-start the tool by bashing Igbrute.sh
+start the tool by running the script :
+Igbrute.sh
 
+command -
 bash Igbrute.sh
 
 
+By default this tool included two wordlist containing the most commonly used passwords, 
+view them by option 2
 
-two inbuild wordlist, view them by option 2
 
-
-
-get the key for acsessing the tool : https://shrinke.me/dQQ1c
+to get the key for acsessing the tool : https://shrinke.me/dQQ1c
 
 learn how to bypass the ads : https://youtu.be/hWzf02xUPRw
-Note [ this is not my channel, im sharing it with you
-all because i found it useful
+Note [ this is not my channel ]
 
+if you are performing attacks using your own prebuild word list, give the exact location to the file when asked.
 
+If you are performing attacks with the default passward lists, do not delete the password.txt and passowrd1.txt files in your sdcard.
 
-if you are attacking with custom password list, note the password
-list must be in the sdcard or else you cannot perform attack
-
-if you are attacking with inbuild password, note you dont want to delete
-the passwordd.txt and passwords.1xt in the sdcard. because they are the 
-password list in use.
-
-if you are creating the wordlist and attacking then, you should be sure
-that the passwordlist you created is in the sdcard . 
+if you prefer to create your own password list, make sure you give the correct location of the file.
 
 last updated on : 26/04/2021
+
+Thanks to -
+kerela hackers
+noobhackers
+
