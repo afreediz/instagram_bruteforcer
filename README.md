@@ -20,9 +20,10 @@ bash Igbrute.sh
 By default this tool included two wordlist containing the most commonly used passwords, 
 view them by option 2
 
+KEY : 6180414
 
 to get the key for acsessing the tool : https://shrinke.me/dQQ1c
-
+( use this if the default key isnt working ]
 learn how to bypass the ads : https://youtu.be/hWzf02xUPRw
 Note [ this is not my channel ]
 
